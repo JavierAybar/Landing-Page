@@ -88,3 +88,16 @@ h2 {
 .card-text {
     color: black;
 }
+
+
+.quotes {
+    color: #1f2937;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+    display: flex;
+    align-items: flex-end;
+    padding: 0px 270px;
+}
