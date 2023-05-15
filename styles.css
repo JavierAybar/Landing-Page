@@ -1,0 +1,61 @@
+body {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-color: #1f2937;
+}
+
+.logo-links {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    gap: 280px;
+    margin-bottom: 55px;
+}
+
+.links {
+   display: flex;
+   gap: 20PX;
+   list-style: none;
+}
+
+.top-body{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 100px;
+    height: 300px;
+}
+
+
+a {
+   text-decoration: none;
+}
+
+.bender-image {
+    height: 300px;
+    width: 500px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900; 
+}
+
+.header-logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.hero-text{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+button {
+    color: white;
+    background-color:#3882f6;
+    border-radius: 15%;
+    font-size: 18px;
+}
+
