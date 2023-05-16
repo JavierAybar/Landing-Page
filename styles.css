@@ -101,3 +101,37 @@ h2 {
     align-items: flex-end;
     padding: 0px 270px;
 }
+
+
+
+.signup-seccion {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container {
+    background-color: #3882f6;
+    margin: 25px;
+    border-radius:8px ;
+    min-width: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.signup-text {
+    font-size: 20px;
+    padding: 25px;
+}
+
+.signup-button{
+    border: white 2px solid;
+    border-radius: 8px;
+    height: 35px;
+    width: 100px;
+}
+
+.footer-seccion {
+    text-align: center;
+}
